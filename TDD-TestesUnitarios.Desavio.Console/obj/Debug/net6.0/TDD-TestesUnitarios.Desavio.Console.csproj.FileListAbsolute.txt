@@ -1,0 +1,14 @@
+F:\sandbox\trilha-net-tdd-testes-unitarios-desafio\TDD-TestesUnitarios.Desavio.Console\bin\Debug\net6.0\TDD-TestesUnitarios.Desavio.Console.exe
+F:\sandbox\trilha-net-tdd-testes-unitarios-desafio\TDD-TestesUnitarios.Desavio.Console\bin\Debug\net6.0\TDD-TestesUnitarios.Desavio.Console.deps.json
+F:\sandbox\trilha-net-tdd-testes-unitarios-desafio\TDD-TestesUnitarios.Desavio.Console\bin\Debug\net6.0\TDD-TestesUnitarios.Desavio.Console.runtimeconfig.json
+F:\sandbox\trilha-net-tdd-testes-unitarios-desafio\TDD-TestesUnitarios.Desavio.Console\bin\Debug\net6.0\TDD-TestesUnitarios.Desavio.Console.dll
+F:\sandbox\trilha-net-tdd-testes-unitarios-desafio\TDD-TestesUnitarios.Desavio.Console\bin\Debug\net6.0\TDD-TestesUnitarios.Desavio.Console.pdb
+F:\sandbox\trilha-net-tdd-testes-unitarios-desafio\TDD-TestesUnitarios.Desavio.Console\obj\Debug\net6.0\TDD-TestesUnitarios.Desavio.Console.GeneratedMSBuildEditorConfig.editorconfig
+F:\sandbox\trilha-net-tdd-testes-unitarios-desafio\TDD-TestesUnitarios.Desavio.Console\obj\Debug\net6.0\TDD-TestesUnitarios.Desavio.Console.AssemblyInfoInputs.cache
+F:\sandbox\trilha-net-tdd-testes-unitarios-desafio\TDD-TestesUnitarios.Desavio.Console\obj\Debug\net6.0\TDD-TestesUnitarios.Desavio.Console.AssemblyInfo.cs
+F:\sandbox\trilha-net-tdd-testes-unitarios-desafio\TDD-TestesUnitarios.Desavio.Console\obj\Debug\net6.0\TDD-TestesUnitarios.Desavio.Console.csproj.CoreCompileInputs.cache
+F:\sandbox\trilha-net-tdd-testes-unitarios-desafio\TDD-TestesUnitarios.Desavio.Console\obj\Debug\net6.0\TDD-TestesUnitarios.Desavio.Console.dll
+F:\sandbox\trilha-net-tdd-testes-unitarios-desafio\TDD-TestesUnitarios.Desavio.Console\obj\Debug\net6.0\refint\TDD-TestesUnitarios.Desavio.Console.dll
+F:\sandbox\trilha-net-tdd-testes-unitarios-desafio\TDD-TestesUnitarios.Desavio.Console\obj\Debug\net6.0\TDD-TestesUnitarios.Desavio.Console.pdb
+F:\sandbox\trilha-net-tdd-testes-unitarios-desafio\TDD-TestesUnitarios.Desavio.Console\obj\Debug\net6.0\TDD-TestesUnitarios.Desavio.Console.genruntimeconfig.cache
+F:\sandbox\trilha-net-tdd-testes-unitarios-desafio\TDD-TestesUnitarios.Desavio.Console\obj\Debug\net6.0\ref\TDD-TestesUnitarios.Desavio.Console.dll

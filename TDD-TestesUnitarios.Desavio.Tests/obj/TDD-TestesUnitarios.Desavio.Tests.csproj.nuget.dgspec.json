@@ -1,0 +1,146 @@
+{
+  "format": 1,
+  "restore": {
+    "F:\\sandbox\\trilha-net-tdd-testes-unitarios-desafio\\TDD-TestesUnitarios.Desavio.Tests\\TDD-TestesUnitarios.Desavio.Tests.csproj": {}
+  },
+  "projects": {
+    "F:\\sandbox\\trilha-net-tdd-testes-unitarios-desafio\\TDD-TestesUnitarios.Desavio.Console\\TDD-TestesUnitarios.Desavio.Console.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "F:\\sandbox\\trilha-net-tdd-testes-unitarios-desafio\\TDD-TestesUnitarios.Desavio.Console\\TDD-TestesUnitarios.Desavio.Console.csproj",
+        "projectName": "TDD-TestesUnitarios.Desavio.Console",
+        "projectPath": "F:\\sandbox\\trilha-net-tdd-testes-unitarios-desafio\\TDD-TestesUnitarios.Desavio.Console\\TDD-TestesUnitarios.Desavio.Console.csproj",
+        "packagesPath": "C:\\Users\\homer\\.nuget\\packages\\",
+        "outputPath": "F:\\sandbox\\trilha-net-tdd-testes-unitarios-desafio\\TDD-TestesUnitarios.Desavio.Console\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\homer\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "F:\\sandbox\\trilha-net-tdd-testes-unitarios-desafio\\TDD-TestesUnitarios.Desavio.Tests\\TDD-TestesUnitarios.Desavio.Tests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "F:\\sandbox\\trilha-net-tdd-testes-unitarios-desafio\\TDD-TestesUnitarios.Desavio.Tests\\TDD-TestesUnitarios.Desavio.Tests.csproj",
+        "projectName": "TDD-TestesUnitarios.Desavio.Tests",
+        "projectPath": "F:\\sandbox\\trilha-net-tdd-testes-unitarios-desafio\\TDD-TestesUnitarios.Desavio.Tests\\TDD-TestesUnitarios.Desavio.Tests.csproj",
+        "packagesPath": "C:\\Users\\homer\\.nuget\\packages\\",
+        "outputPath": "F:\\sandbox\\trilha-net-tdd-testes-unitarios-desafio\\TDD-TestesUnitarios.Desavio.Tests\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\homer\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "F:\\sandbox\\trilha-net-tdd-testes-unitarios-desafio\\TDD-TestesUnitarios.Desavio.Console\\TDD-TestesUnitarios.Desavio.Console.csproj": {
+                "projectPath": "F:\\sandbox\\trilha-net-tdd-testes-unitarios-desafio\\TDD-TestesUnitarios.Desavio.Console\\TDD-TestesUnitarios.Desavio.Console.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[17.8.0-release-23468-02, )"
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.5.3, )"
+            },
+            "xunit.runner.visualstudio": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.5.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
