@@ -20,4 +20,4 @@ Notações, Classes e Métodos:
         Theory
             InlineData
 
-![screenshot teste](../trilha-net-tdd-testes-unitarios-desafio/TDD-TestesUnitarios.Desavio.Tests/screenshots/testes.png)
+![screenshot teste](TDD-TestesUnitarios.Desavio.Tests/screenshots/testes.png)
